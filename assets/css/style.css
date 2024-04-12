@@ -728,6 +728,10 @@ form button:hover {
         padding-inline: .1rem;
     }
 
+    .benefits .container {
+        padding-block: 1.95rem;
+    }
+
 }
 
 
@@ -813,10 +817,6 @@ form button:hover {
 
     .heroContent h1 {
         font-size: 48px;
-    }
-
-    .benefits .container {
-        padding-block: 1.95rem;
     }
 
     .scrollable-container {
